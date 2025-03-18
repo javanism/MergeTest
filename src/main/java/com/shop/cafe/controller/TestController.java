@@ -1,6 +1,10 @@
 package com.shop.cafe.controller;
 
-@RestController
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+
 public class TestController {
 
 }
